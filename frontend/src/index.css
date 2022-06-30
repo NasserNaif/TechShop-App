@@ -1,0 +1,33 @@
+main {
+  min-height: 82vh;
+}
+
+.TitleText {
+  text-decoration: none;
+}
+
+.ImageCard {
+  padding: 10px;
+}
+
+.Card {
+  height: 420px;
+  margin-bottom: 5px;
+  border: none;
+}
+
+.LightBTN {
+  width: 80px;
+  margin: 5px;
+  border: none;
+  background-color: transparent;
+}
+
+.ListGroup {
+  border: none;
+  /* background-color: aqua; */
+}
+
+.ListGroup.Item {
+  background-color: aqua;
+}
